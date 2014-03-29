@@ -1,3 +1,3 @@
 gitskills
 =========
-Git is a free software ..
+Git is the free software ..
